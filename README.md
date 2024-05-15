@@ -15,7 +15,7 @@ I am a passionate **web developer** with a keen interest in creating dynamic and
   
 ## Contact Me
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://papakparsi@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://babak.chalaki82@gmail.com)
 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/babak-chalaki-622376292/?originalSubdomain=ir)
