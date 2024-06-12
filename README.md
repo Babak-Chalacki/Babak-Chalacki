@@ -17,6 +17,9 @@ I am a passionate **web developer** with a keen interest in creating dynamic and
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://babak.chalaki82@gmail.com)
 
+البته! در این صورت لینک برای تگرام به این صورت خواهد بود:
+
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram)](@BABAK_CHALAKI)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/babak-chalaki-622376292/?originalSubdomain=ir)
 ##
