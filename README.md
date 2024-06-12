@@ -17,7 +17,7 @@ I am a passionate **web developer** with a keen interest in creating dynamic and
 
 [![Email](https://img.shields.io/badge/-Email-blue?style=flat&logo=gmail&labelColor=black)](https://babak.chalaki82@gmail.com) 
 
-[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&labelColor=black)](@BABAK_CHALAKI)
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&labelColor=black)](https://t.me/BABAK_CHALAKI)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&labelColor=black)](https://www.linkedin.com/in/babak-chalaki-622376292/?originalSubdomain=ir)
 ##
