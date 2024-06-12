@@ -15,12 +15,11 @@ I am a passionate **web developer** with a keen interest in creating dynamic and
   
 ## Contact Me
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://babak.chalaki82@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-blue?style=flat&logo=gmail&labelColor=black)](https://babak.chalaki82@gmail.com) 
 
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&labelColor=black)](@BABAK_CHALAKI)
 
-[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram)](@BABAK_CHALAKI)
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/babak-chalaki-622376292/?originalSubdomain=ir)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&labelColor=black)](https://www.linkedin.com/in/babak-chalaki-622376292/?originalSubdomain=ir)
 ##
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Babak-Chalacki)](https://github.com/anuraghazra/github-readme-stats)
 ![BABAK's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Babak-Chalacki&theme=github-compact)
