@@ -8,7 +8,7 @@ I am a passionate **web developer** with a keen interest in creating dynamic and
 
 - HTML, CSS, JavaScript
 - PHP,SQL
-- Bootstrap
+- Bootstrap,Laravel
 - Responsive Web Design
 - Version Control (Git)
 - Problem Solving
