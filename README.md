@@ -1,9 +1,7 @@
 
 
 Hello, I'm **BABAK-CHALAKI** 👋
-
-I am a passionate **web developer** with a keen interest in creating dynamic and interactive websites. I love working on projects that challenge me to learn new technologies and improve my coding skills. In my free time, you can find me exploring the latest **web development** trends, working on personal coding projects, and attending tech meetups.
-
+ 
 ## Skills
 
 - HTML, CSS, JavaScript
