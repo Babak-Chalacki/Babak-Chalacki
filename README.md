@@ -6,6 +6,7 @@ Hello, I'm **BABAK-CHALAKI** 👋
 
 - HTML, CSS, JavaScript
 - PHP,SQL
+- RegEx
 - Bootstrap,Laravel
 - Responsive Web Design
 - Version Control (Git)
