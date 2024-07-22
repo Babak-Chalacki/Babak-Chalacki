@@ -8,7 +8,7 @@ Hello, I'm **BABAK-CHALAKI** 👋
 - PHP,SQL
 - RegEx
 - Bootstrap,Laravel
-- Responsive Web Design
+<!-- - Responsive Web Design -->
 - Version Control (Git)
 - Problem Solving
   
