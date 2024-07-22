@@ -9,8 +9,8 @@ Hello, I'm **BABAK-CHALAKI** 👋
 - RegEx
 - Bootstrap,Laravel
 - Responsive Web Design 
-<!-- - Version Control (Git) -->
 - Problem Solving
+<!-- - Version Control (Git) -->
   
 ## Contact Me
 
