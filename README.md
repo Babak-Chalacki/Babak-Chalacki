@@ -7,6 +7,7 @@ Hello, I'm **BABAK-CHALAKI** 👋
 - HTML, CSS, JavaScript
 - PHP,SQL
 - RegEx
+- jQuery 
 - Bootstrap,Laravel
 - Responsive Web Design 
 - Problem Solving
