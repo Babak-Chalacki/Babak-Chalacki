@@ -30,7 +30,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&labelColor=black)](https://www.linkedin.com/in/babak-chalaki-622376292/?originalSubdomain=ir)
 
-[![my website](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&labelColor=black)](https://babak-chalaki.ir)
+[![my website]](https://babak-chalaki.ir)
 
 </p>
 
