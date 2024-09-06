@@ -27,7 +27,7 @@
 [![Email](https://img.shields.io/badge/-Email-blue?style=flat&logo=gmail&labelColor=black)](https://babak.chalaki82@gmail.com) 
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&labelColor=black)](https://t.me/BABAK_CHALAKI) 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&labelColor=black)](https://www.linkedin.com/in/babak-chalaki-622376292/?originalSubdomain=ir) 
-[(https://img.shields.io/badge/-NyWebsite-blue?style=flat&logo=link&labelColor=black)](https://babak-chalaki.ir)
+[![My website](https://img.shields.io/badge/-Ny_Website-blue?style=flat&logo=link&labelColor=black)](https://babak-chalaki.ir)
 
 </p>
 
