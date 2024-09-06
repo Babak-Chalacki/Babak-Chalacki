@@ -1,7 +1,10 @@
 
 
-Hello, I'm **BABAK-CHALAKI** 👋
- 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+There+Welcome+To+My+Profile!;I%27m+babak+chalaki🖐;I%27m+a+backend+Developer💻;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=2000&color=red" alt="Example Usage - README Typing SVG">
+</p>
+
+
 ## Skills
 
 - HTML, CSS, JavaScript
