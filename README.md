@@ -30,7 +30,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&labelColor=black)](https://www.linkedin.com/in/babak-chalaki-622376292/?originalSubdomain=ir)
 
-<img src="https://img.shields.io/badge/website-www.babak-chalaki.ir-blue?logo=telegram&style=for-the-badge&logoColor=white" >
+<img src="https://img.shields.io/badge/website-www.babak-chalaki.ir-blue?style=for-the-badge&logoColor=white" >
 
 
 </p>
