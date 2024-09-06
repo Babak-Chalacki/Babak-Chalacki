@@ -5,16 +5,20 @@
 </p>
 
 
-## Skills
+<h2>🔧 &nbsp Tech Stack</h2>
 
-- HTML, CSS, JavaScript
-- PHP,SQL
-- RegEx
-- jQuery 
-- Bootstrap,Laravel
-- Responsive Web Design 
-- Problem Solving
-<!-- - Version Control (Git) -->
+<h3>languages :</h3>
+<img src="https://skillicons.dev/icons?i=js,html,css,php,python,mysql" >
+
+<h3>library and frameworks :</h3>
+<img src="https://skillicons.dev/icons?i=bootstrap,jquery,laravel," >
+
+<h3>IDE and editors:</h3>
+<img src="https://skillicons.dev/icons?i=pycharm,phpstorm,vscode,xd,figma" >
+
+<h3>DEV tools:</h3>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab," >
+
   
 ## Contact Me
 
