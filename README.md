@@ -31,12 +31,10 @@
 
 </div>
 
----
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Babak-Chalacki&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-<br>
 
 ![BABAK's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Babak-Chalacki&theme=github-compact)
