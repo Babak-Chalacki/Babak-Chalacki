@@ -18,7 +18,8 @@
 
 <h3>DEV tools:</h3>
 <img src="https://skillicons.dev/icons?i=git,github,gitlab," >
-
+ <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
   
 ## Contact Me
 
