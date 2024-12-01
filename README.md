@@ -30,9 +30,9 @@
 [![My website](https://img.shields.io/badge/-My_Website-blue?style=flat&logo=link&labelColor=black)](https://babak-chalaki.ir)
 
 </div>
-
+<!--
 ![My Viewers](https://komarev.com/ghpvc/?username=Babak-Chalacki&color=0000ff&style=flat&base=100)
-<!--<div align="center">
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=Babak-Chalacki&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" style="border-radius: 5px;"/>
 </div> -->
 
