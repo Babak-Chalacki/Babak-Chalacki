@@ -18,8 +18,11 @@
 
 <h3>DEV tools:</h3>
 <img src="https://skillicons.dev/icons?i=git,github,gitlab," >
-<img src="https://skillicons.dev/icons?i=postman" alt="Postman Icon" style="border-radius:20px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+<div style="display: flex; align-items: center;">
+    <img src="https://skillicons.dev/icons?i=postman" alt="Postman Icon" style="border-radius:20px; margin-right: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux Logo">
+</div>
+
   
 ## Contact Me
 
