@@ -17,8 +17,9 @@
 <img src="https://skillicons.dev/icons?i=pycharm,phpstorm,vscode,xd,figma" >
 
 <h3>DEV tools:</h3>
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,postman" >
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+<img src="https://skillicons.dev/icons?i=git,github,gitlab," >
+<img src="https://skillicons.dev/icons?i=postman" alt="Postman Icon" style="border-radius:20px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
   
 ## Contact Me
 
