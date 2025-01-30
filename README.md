@@ -14,7 +14,7 @@
 <img src="https://skillicons.dev/icons?i=bootstrap,jquery,laravel,tailwind" >
 
 <h3>IDE and editors:</h3>
-<img src="https://skillicons.dev/icons?i=pycharm,phpstorm,clion,vscode,xd,figma" >
+<img src="https://skillicons.dev/icons?i=pycharm,phpstorm,clion,vscode,xd,figma,vue,inertiajs">
 
 <h3>DEV tools:</h3>
 <img src="https://skillicons.dev/icons?i=git,github,gitlab," >
