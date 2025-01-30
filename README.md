@@ -11,10 +11,10 @@
 <img src="https://skillicons.dev/icons?i=js,html,css,php,python,mysql,cpp" >
 
 <h3>library and frameworks :</h3>
-<img src="https://skillicons.dev/icons?i=bootstrap,jquery,laravel,tailwind" >
+<img src="https://skillicons.dev/icons?i=bootstrap,jquery,laravel,tailwind,vue,inertiajs">
 
 <h3>IDE and editors:</h3>
-<img src="https://skillicons.dev/icons?i=pycharm,phpstorm,clion,vscode,xd,figma,vue,inertiajs">
+<img src="https://skillicons.dev/icons?i=pycharm,phpstorm,clion,vscode,xd,figma">
 
 <h3>DEV tools:</h3>
 <img src="https://skillicons.dev/icons?i=git,github,gitlab," >
