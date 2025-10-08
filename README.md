@@ -1,13 +1,12 @@
 
 
-<!--
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+There+Welcome+To+My+Profile!;I%27m+babak+chalaki🖐;I%27m+a+Backend+Developer💻;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=2000&color=red" alt="Example Usage - README Typing SVG">
 </p>
--->
 
 
-<p>you may want to</p>
+<b><p>you may want to</p></b>
 <a href="https://www.coffeebede.com/babakchalaki">
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
 </a>
