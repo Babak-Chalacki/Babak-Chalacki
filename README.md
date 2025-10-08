@@ -14,8 +14,16 @@
 
 <h2>🔧 &nbsp Tech Stack</h2>
 
-<h3>languages :</h3>
-<img src="https://skillicons.dev/icons?i=js,html,css,php,python,cpp" >
+<h3>Library & Frameworks :</h3>
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="Bootstrap Logo">
+  <img src="https://skillicons.dev/icons?i=jquery" height="30" alt="jQuery Logo">
+  <img src="https://skillicons.dev/icons?i=laravel" height="30" alt="Laravel Logo">
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="Tailwind Logo">
+  <img src="https://skillicons.dev/icons?i=vue" height="30" alt="Vue Logo">
+  <img src="https://skillicons.dev/icons?i=vue" height="30" alt="Inertia.js Logo">
+</div>
+
 
 <h3>Databases :</h3>
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,redis" >
