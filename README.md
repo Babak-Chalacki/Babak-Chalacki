@@ -30,9 +30,8 @@
 <img src="https://skillicons.dev/icons?i=git,github,gitlab" >
 <div style="display: flex; align-items: center; gap: 10px;">
   <img src="https://skillicons.dev/icons?i=postman" alt="Postman Icon" style="border-radius: 50%; width: 50px; height: 50px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux Logo">
-  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="Docker Logo">
-  <img src="https://skillicons.dev/icons?i=laravel" height="30" alt="Laravel Sail Logo">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux Logo">
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker Logo">
 </div>
 
 
