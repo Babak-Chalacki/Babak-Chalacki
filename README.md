@@ -27,11 +27,14 @@
 <img src="https://skillicons.dev/icons?i=pycharm,phpstorm,clion,vscode,xd,figma">
 
 <h3>DEV tools:</h3>
-<img src="https://skillicons.dev/icons?i=git,github,gitlab," >
-<div style="display: flex; align-items: center;">
-<img src="https://skillicons.dev/icons?i=postman" alt="Postman Icon" style="border-radius: 50%; width: 50px; height: 50px; margin-right: 10px;">
+<img src="https://skillicons.dev/icons?i=git,github,gitlab" >
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman Icon" style="border-radius: 50%; width: 50px; height: 50px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux Logo">
+  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="Docker Logo">
+  <img src="https://skillicons.dev/icons?i=laravel" height="30" alt="Laravel Sail Logo">
 </div>
+
 
   
 ## Contact Me
